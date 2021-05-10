@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "swift-mock": "^0.0.26"
+  }
+}
